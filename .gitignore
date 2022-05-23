@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Omitting large files
+customers_table.csv
+products_table.csv
+review_id_table.csv
+vine_table.csv
